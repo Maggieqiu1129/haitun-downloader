@@ -1,0 +1,14 @@
+# 下载的视频和临时文件
+*.mp4
+*.part
+
+# 抓取导出的列表（含用户自己的视频地址）
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
